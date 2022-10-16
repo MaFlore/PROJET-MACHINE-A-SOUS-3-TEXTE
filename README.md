@@ -1,5 +1,5 @@
 # PROJET-MACHINE-A-SOUS-3-TEXTE
-PROJET : Gestion d’une machine à sous en ligne Implémentation du TP 7 en envoyant une requête asynchrone POST AJAX au serveur avec les  données aux formats texte
+PROJET : Gestion d’une machine à sous en ligne Implémentation du TP 7 en envoyant une requête asynchrone POST AJAX au serveur avec les  données au format TEXTE
 
 DESCRIPTION DETAILLE DU FONCTIONNEMENT DU JEU
 
